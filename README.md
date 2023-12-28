@@ -1,4 +1,4 @@
-# The instruction is not finished yet young Use the official documentation
+# The instruction is not finished yet. Please use the official documentation
 
 https://docs.open-metadata.org/v1.2.x/quick-start/local-docker-deployment
 
