@@ -1,5 +1,7 @@
 # The instruction is not finished yet. Please use the official documentation
 
+**The OpenMetaData repository does not allow downloading the docker container for the RU Internet**
+
 https://docs.open-metadata.org/v1.2.x/quick-start/local-docker-deployment
 
 # Installing OpenMetadata with docker-compose.
